@@ -134,10 +134,10 @@
                     ?>
                 </h2>
                 <h5>
-                    <a href='addRecord.php'>Add Project</a>&emsp;
-                    <a href='addTask.php'>Add Task</a>&emsp;
-                    <a href='deleteRecord.php'>Delete Record</a>&emsp;
-                    <a style='color:red' href='loginForm.php'>Logout</a>
+                    <a href='addRecord.php'>Tambahkan Project</a>&emsp;
+                    <a href='addTask.php'>Tambahkan Task</a>&emsp;
+                    <a href='deleteRecord.php'>Menghapus Record</a>&emsp;
+                    <a style='color:red' href='loginForm.php'>Keluar</a>
                 </h5>
             </header>
         </div>
